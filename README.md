@@ -1,4 +1,4 @@
-## hi! i am merpcat ^^
+## hi! i am anna ^^
 
 i love building websites with HTML5, CSS3, and JavaScript. i am also very familar with flask. i use Adobe Photoshop for creating logos and web design.
 
