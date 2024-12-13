@@ -1,6 +1,6 @@
 ## hi! i am anna ^^
 
-i love building websites with HTML5, CSS3, and JavaScript. i am also very familar with flask. i use Adobe Photoshop for creating logos and web design.
+i love building websites with HTML5, CSS3, and JavaScript. i usually use flask as a framework. i use Adobe Photoshop for creating logos and web design.
 
 ---
 
