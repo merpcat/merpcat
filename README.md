@@ -6,7 +6,8 @@ i love building websites with HTML5, CSS3, and JavaScript. i am also very famila
 
 ## whoami??
 
-im pretty passionate about web development and enjoy creating interactive websites and alternate reality games. in my free time, im pretty chill and chill ;P
+im pretty passionate about web development and enjoy creating interactive websites and alternate reality games.
+i love cats, listening to music and hanging out with my friends :)
 
 ---
 
