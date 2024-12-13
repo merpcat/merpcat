@@ -13,7 +13,7 @@ i love cats, listening to music and hanging out with my friends :)
 
 ## Hire Me!!
 
-If you like my work and would like for me to design a website for you:
+If you like my work and would like for me to design a website/logo for you:
 
 - **Fiverr**: [Hire me on Fiverr!!!](https://fiverr.com/meepcat)
 - **Email**: [admin@merp.cat](mailto:admin@merp.cat)
